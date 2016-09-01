@@ -1,10 +1,10 @@
 # PHYS220 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Will And Sakthi_
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-01-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-01-YOURNAME)
 
-**Due date:** 2016/09/06
+**Due date:** 2017/09/06
 
 ## Specification
 
