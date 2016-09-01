@@ -1,0 +1,39 @@
+\documentclass[aps,pra,notitlepage,amsmath,amssymb,letterpaper,12pt]{revtex4-1}
+\usepackage{amsthm}
+\usepackage{graphicx}
+ 
+%  Helpful commands to set up problem environments easily
+\newenvironment{problem}[2][Problem]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{solution}{\begin{proof}[Solution]}{\end{proof}}
+ 
+% --------------------------------------------------------------
+%                   Document Begins Here
+% --------------------------------------------------------------
+ 
+\begin{document}
+ 
+\title{Classwork 1}
+\author{Saktill}
+\affiliation{PHYS 220 -- Scientific Computing I}
+\date{\today}
+
+\maketitle
+
+%
+\begin{problem}{x.yz} 
+Explain what the definition $f'(x)$ of a function $f(x)$ means.
+\end{problem}
+ 
+\begin{solution}
+The definition of $f'(x)$ is given as
+\[
+\begin{split}
+f'(x) =  lim_{h\to 0} frac{f(x+h) - f(x)}{h}
+\end{split}
+\]
+
+% Repeat as needed
+ 
+ 
+\end{document}
