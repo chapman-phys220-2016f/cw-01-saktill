@@ -2,7 +2,7 @@
 
 **Author(s):** _Will And Sakthi_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-01-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-01-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-01-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-01-saktill)
 
 **Due date:** 2017/09/06
 
@@ -16,9 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+The assignment was very useful in getting us up to speed on the basics of vim, git and terminal. No questions all is well.
 
 ## Honor Pledge
 
